@@ -1,2 +1,4 @@
 # batalla
- Simulación de batalla con estructuras en C
+ Battle simulation with structures in C
+
+
